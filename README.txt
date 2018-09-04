@@ -1,3 +1,7 @@
+# Repo Moved
+https://bitbucket.org/adaware/waterfox
+
+
 The Waterfox source code is made to be able to be compiled by Intel's C++ compiler for Windows. You should be able to
 install it and compile Waterfox without any issues. Other modifications and patches that are more
 upstream have been implemented as well to fix any compatibility/security issues that Mozilla may 
